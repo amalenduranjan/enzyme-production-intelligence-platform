@@ -1,6 +1,24 @@
 # Enzyme Production Intelligence Platform
+## Business problem
 
-Synthetic data-based platform for an use case.
+In industrial enzyme production, important information is often distributed across different systems:
+## LIMS:   
+enzyme assay results, sample information, HPLC results, purity, activity
+## SAP: 
+raw materials, batch numbers, inventory, suppliers, production orders, quality status
+## SharePoint: 
+SOPs, specifications, deviation reports, investigations, technical reports
+## Laboratory instruments: 
+HPLC, UV-Vis, plate readers, spectroscopy
+## Manufacturing systems: 
+fermentation temperature, pH, agitation, dissolved oxygen, feed rate, airflow, fermentation time
+Because the information is fragmented, scientists and quality teams may spend considerable time manually combining data before they can answer questions such as: 
+1) Why did Batch 145 have 20% lower enzyme yield?
+2) Which fermentation variables are most strongly associated with enzyme activity and purity?
+
+The goal of the project would be to create one trusted analytical layer connecting all these sources and answer all the above questions.
+
+Synthetic data-based platform for these use cases.
 
 ## Scenario
 Industrial *Aspergillus niger* enzyme fermentation. A common `batch_id` harmonizes:
