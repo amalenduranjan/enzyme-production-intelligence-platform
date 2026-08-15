@@ -2,11 +2,11 @@
 ## Business problem
 
 In industrial enzyme production, important information is often distributed across different systems:
-## LIMS: enzyme assay results, sample information, HPLC results, purity, activity
-## SAP: raw materials, batch numbers, inventory, suppliers, production orders, quality status
-## SharePoint: SOPs, specifications, deviation reports, investigations, technical reports
-## Laboratory instruments: HPLC, UV-Vis, plate readers, spectroscopy
-## Manufacturing systems: fermentation temperature, pH, agitation, dissolved oxygen, feed rate, airflow, fermentation time
+LIMS: enzyme assay results, sample information, HPLC results, purity, activity
+SAP: raw materials, batch numbers, inventory, suppliers, production orders, quality status
+SharePoint: SOPs, specifications, deviation reports, investigations, technical reports
+Laboratory instruments: HPLC, UV-Vis, plate readers, spectroscopy
+Manufacturing systems: fermentation temperature, pH, agitation, dissolved oxygen, feed rate, airflow, fermentation time
 
 Because the information is fragmented, scientists and quality teams may spend considerable time manually combining data before they can answer questions such as: 
 1) Why did Batch 145 have 20% lower enzyme yield?
