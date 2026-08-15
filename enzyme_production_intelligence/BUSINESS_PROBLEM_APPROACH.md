@@ -9,31 +9,3 @@ I then created a unified analytical layer and demonstrated five use cases: predi
 The key design principle is to establish trusted, harmonized data before adding AI. In production, I would replace the synthetic CSVs with governed connectors, add master-data management, lineage and validation, and use an enterprise vector database and approved LLM for the knowledge assistant.
 
 This project connects my biotechnology background in fermentation and enzyme production with data engineering, machine learning, GenAI, and quality operations.
-
-Workflow for this project:
-Step 1
-Create synthetic datasets in Jupyter
-        ↓
-Step 2
-Perform EDA
-        ↓
-Step 3
-Harmonize SAP + LIMS + Manufacturing data
-        ↓
-Step 4
-Train and evaluate ML models
-        ↓
-Step 5
-Save cleaned/scored data and model
-        ↓
-Step 6
-Build app.py
-        ↓
-Step 7
-Run with Streamlit
-        ↓
-Step 8
-Push to GitHub
-        ↓
-Step 9
-Deploy on Streamlit Community Cloud
