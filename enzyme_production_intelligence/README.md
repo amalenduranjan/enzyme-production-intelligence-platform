@@ -1,6 +1,6 @@
 # Enzyme Production Intelligence Platform
 
-Synthetic interview-ready platform for an IFF AI & Data Scientist use case.
+Synthetic data-based platform for an use case.
 
 ## Scenario
 Industrial *Aspergillus niger* enzyme fermentation. A common `batch_id` harmonizes:
