@@ -12,6 +12,7 @@ SOPs, specifications, deviation reports, investigations, technical reports
 HPLC, UV-Vis, plate readers, spectroscopy
 ## Manufacturing systems: 
 fermentation temperature, pH, agitation, dissolved oxygen, feed rate, airflow, fermentation time
+
 Because the information is fragmented, scientists and quality teams may spend considerable time manually combining data before they can answer questions such as: 
 1) Why did Batch 145 have 20% lower enzyme yield?
 2) Which fermentation variables are most strongly associated with enzyme activity and purity?
