@@ -53,7 +53,8 @@ SAP + LIMS + Manufacturing + SharePoint
 → analytics / ML / GenAI
 
 ## Production extensions
-**Replace CSVs with governed system connectors:** the production system would connect directly to real systems such as LIMS, SAP, SharePoint, manufacturing historians, or instrument databases using approved APIs, database connectors, or integration tools.
+**Replace CSVs with governed system connectors:** 
+the production system would connect directly to real systems such as LIMS, SAP, SharePoint, manufacturing historians, or instrument databases using approved APIs, database connectors, or integration tools.
 **add master-data management:** MDM creates a consistent definition for important business entities across systems.
 Example: the same enzyme product may have different names or IDs in SAP, LIMS, and SharePoint. MDM creates one trusted mapping:
 ENZ-001 = SAP material 4500123 = LIMS product ENZYME_A.
