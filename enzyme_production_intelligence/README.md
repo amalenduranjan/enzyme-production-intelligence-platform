@@ -17,9 +17,9 @@ Because the information is fragmented, scientists and quality teams may spend co
 1) Why did Batch 145 have 20% lower enzyme yield?
 2) Which fermentation variables are most strongly associated with enzyme activity and purity?
 
-The goal of the project would be to create one trusted analytical layer connecting all these sources and answer all the above questions.
+The goal of the project would be to create one trusted analytical layer connecting all these sources and answer these questions.
 
-Synthetic data-based platform for these use cases.
+## Synthetic data-based platform for these use cases.
 
 ## Scenario
 Industrial *Aspergillus niger* enzyme fermentation. A common `batch_id` harmonizes:
