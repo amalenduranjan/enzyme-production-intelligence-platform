@@ -1,6 +1,6 @@
-# 90-Second Interview Story
+# Business Problem and Approach
 
-I built a synthetic enzyme-production intelligence platform to demonstrate how I would approach the IFF AI & Data Scientist role. The business problem is that important information is fragmented across SAP, LIMS, manufacturing systems, and SharePoint.
+The business problem is that important information is fragmented across SAP, LIMS, manufacturing systems, and SharePoint. For this project I built a synthetic enzyme-production intelligence platform to demonstrate how I would approach.
 
 I used a common batch ID to connect SAP material and supplier data, LIMS enzyme activity and HPLC results, fermentation variables such as pH, temperature, dissolved oxygen and feed rate, and SharePoint-style SOPs and deviation reports.
 
