@@ -13,7 +13,7 @@ Laboratory instruments: HPLC, UV-Vis, plate readers, spectroscopy
 Manufacturing systems: fermentation temperature, pH, agitation, dissolved oxygen, feed rate, airflow, fermentation time
 
 Because the information is fragmented, scientists and quality teams may spend considerable time manually combining data before they can answer questions such as: 
-1) Why did Batch 145 have 20% lower enzyme yield?
+1) Why did Batch A have 20% lower enzyme yield?
 2) Which fermentation variables are most strongly associated with enzyme activity and purity?
 
 The goal of the project would be to create one trusted analytical layer connecting all these sources and answer these questions.
@@ -33,16 +33,6 @@ Industrial *Aspergillus niger* enzyme fermentation. A common `batch_id` harmoniz
 3. Fermentation anomaly detection
 4. Root-cause investigation support
 5. RAG-ready scientific/quality knowledge retrieval
-
-## Synthetic model results
-Yield model: MAE 2.93, R² 0.35
-Quality-risk model: ROC-AUC 0.94, Precision 0.86, Recall 0.83, F1 0.84
-
-## Run the dashboard
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Architecture
 SAP + LIMS + Manufacturing + SharePoint
