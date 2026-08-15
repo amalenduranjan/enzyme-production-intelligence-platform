@@ -1,0 +1,301 @@
+batch_id,product_id,organism,site,fermenter,start_date,raw_material_lot,supplier,planned_volume_L,estimated_batch_cost_usd,production_status
+B2026-0001,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-04-27,RM-3965,Supplier_B,4000,52482.0,Quality Review
+B2026-0002,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-27,RM-1203,Supplier_A,4000,45855.0,Quality Review
+B2026-0003,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-20,RM-7558,Supplier_B,5000,48663.0,Released
+B2026-0004,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-03-12,RM-5773,Supplier_B,4000,44035.0,Released
+B2026-0005,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-05-12,RM-5062,Supplier_C,4000,53112.0,Released
+B2026-0006,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-23,RM-9053,Supplier_A,3000,54767.0,Quality Review
+B2026-0007,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-07-21,RM-3823,Supplier_A,5000,54615.0,Released
+B2026-0008,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-04-16,RM-6151,Supplier_B,4000,52080.0,Released
+B2026-0009,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-09,RM-7703,Supplier_A,4000,41983.0,Released
+B2026-0010,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-05-31,RM-6475,Supplier_A,3000,47970.0,Quality Review
+B2026-0011,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-03-15,RM-2871,Supplier_A,5000,49353.0,Released
+B2026-0012,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-20,RM-7133,Supplier_A,5000,49379.0,Released
+B2026-0013,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-06-13,RM-7689,Supplier_A,4000,52487.0,Released
+B2026-0014,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-03-14,RM-2101,Supplier_A,4000,61266.0,Released
+B2026-0015,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-24,RM-2488,Supplier_A,5000,57279.0,Released
+B2026-0016,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-24,RM-7073,Supplier_A,5000,45581.0,Released
+B2026-0017,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-17,RM-2070,Supplier_A,4000,56410.0,Released
+B2026-0018,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-01-11,RM-8922,Supplier_B,4000,56162.0,Released
+B2026-0019,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-04-19,RM-1985,Supplier_A,5000,46761.0,Released
+B2026-0020,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-04-12,RM-9767,Supplier_C,5000,57518.0,Quality Review
+B2026-0021,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-07-10,RM-7042,Supplier_C,4000,50958.0,Released
+B2026-0022,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-06-06,RM-4987,Supplier_A,4000,42835.0,Released
+B2026-0023,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-12,RM-3415,Supplier_A,4000,54959.0,Released
+B2026-0024,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-02-03,RM-4100,Supplier_B,5000,53410.0,Released
+B2026-0025,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-05-13,RM-7735,Supplier_C,4000,50520.0,Released
+B2026-0026,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-11,RM-7779,Supplier_B,3000,51757.0,Quality Review
+B2026-0027,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-03-12,RM-2877,Supplier_C,3000,47326.0,Released
+B2026-0028,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-31,RM-5885,Supplier_B,5000,55966.0,Quality Review
+B2026-0029,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-01-05,RM-9935,Supplier_B,5000,51718.0,Released
+B2026-0030,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-07-22,RM-3315,Supplier_A,5000,53082.0,Quality Review
+B2026-0031,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-01-20,RM-7239,Supplier_B,4000,54321.0,Released
+B2026-0032,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-01-03,RM-2549,Supplier_A,5000,44495.0,Quality Review
+B2026-0033,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-07-25,RM-8505,Supplier_B,5000,46187.0,Released
+B2026-0034,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-02-11,RM-2531,Supplier_C,4000,37635.0,Released
+B2026-0035,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-06-29,RM-3678,Supplier_A,3000,55671.0,Released
+B2026-0036,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-07,RM-5132,Supplier_B,5000,44121.0,Released
+B2026-0037,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-03,RM-4335,Supplier_A,3000,52862.0,Released
+B2026-0038,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-01-25,RM-2530,Supplier_B,4000,54411.0,Quality Review
+B2026-0039,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-06-05,RM-6768,Supplier_A,4000,55915.0,Quality Review
+B2026-0040,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-05-17,RM-1177,Supplier_C,4000,44174.0,Released
+B2026-0041,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-04-15,RM-9850,Supplier_A,4000,51576.0,Released
+B2026-0042,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-23,RM-1468,Supplier_C,5000,62857.0,Released
+B2026-0043,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-01-20,RM-4004,Supplier_C,4000,63143.0,Released
+B2026-0044,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-06,RM-9368,Supplier_B,5000,58418.0,Released
+B2026-0045,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-20,RM-2395,Supplier_B,4000,54194.0,Released
+B2026-0046,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-05-10,RM-1656,Supplier_B,4000,45467.0,Quality Review
+B2026-0047,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-06-01,RM-7694,Supplier_C,5000,56671.0,Quality Review
+B2026-0048,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-06,RM-1658,Supplier_A,3000,50973.0,Released
+B2026-0049,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-04-19,RM-9095,Supplier_B,4000,55643.0,Quality Review
+B2026-0050,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-02,RM-5060,Supplier_A,5000,47887.0,Released
+B2026-0051,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-03,RM-8823,Supplier_B,3000,50876.0,Released
+B2026-0052,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-07,RM-3205,Supplier_A,3000,53067.0,Released
+B2026-0053,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-04-28,RM-2270,Supplier_B,4000,53601.0,Quality Review
+B2026-0054,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-05-17,RM-9663,Supplier_B,5000,55209.0,Quality Review
+B2026-0055,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-11,RM-7858,Supplier_A,4000,48235.0,Released
+B2026-0056,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-02-05,RM-9197,Supplier_B,4000,43269.0,Released
+B2026-0057,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-07-17,RM-3878,Supplier_B,5000,62561.0,Released
+B2026-0058,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-06-20,RM-4642,Supplier_B,4000,68180.0,Quality Review
+B2026-0059,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-08-07,RM-6194,Supplier_A,4000,54908.0,Quality Review
+B2026-0060,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-07-08,RM-5038,Supplier_B,4000,43394.0,Released
+B2026-0061,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-03-06,RM-3183,Supplier_C,4000,46974.0,Quality Review
+B2026-0062,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-02-25,RM-4375,Supplier_A,4000,55309.0,Quality Review
+B2026-0063,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-02-24,RM-6478,Supplier_A,4000,60717.0,Released
+B2026-0064,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-07-22,RM-1340,Supplier_A,3000,44116.0,Released
+B2026-0065,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-05-03,RM-4023,Supplier_B,4000,51192.0,Released
+B2026-0066,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-04-10,RM-3635,Supplier_A,4000,53274.0,Quality Review
+B2026-0067,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-08-02,RM-1632,Supplier_B,4000,57620.0,Released
+B2026-0068,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-13,RM-2103,Supplier_B,3000,49767.0,Released
+B2026-0069,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-07-20,RM-5460,Supplier_A,4000,41835.0,Released
+B2026-0070,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-08-05,RM-1921,Supplier_C,5000,56038.0,Quality Review
+B2026-0071,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-18,RM-4103,Supplier_B,4000,59311.0,Released
+B2026-0072,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-21,RM-6047,Supplier_A,3000,51463.0,Released
+B2026-0073,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-06-11,RM-8863,Supplier_A,4000,54634.0,Released
+B2026-0074,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-06-28,RM-1888,Supplier_A,5000,48916.0,Released
+B2026-0075,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-02-02,RM-4911,Supplier_A,4000,46502.0,Released
+B2026-0076,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-03-12,RM-1926,Supplier_A,5000,58672.0,Released
+B2026-0077,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-05-01,RM-4856,Supplier_C,4000,54519.0,Released
+B2026-0078,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-06-25,RM-5324,Supplier_A,3000,55187.0,Quality Review
+B2026-0079,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-01-25,RM-8192,Supplier_A,5000,61764.0,Quality Review
+B2026-0080,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-05-13,RM-4980,Supplier_B,4000,45144.0,Released
+B2026-0081,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-03-07,RM-9418,Supplier_B,3000,48412.0,Released
+B2026-0082,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-02-17,RM-2238,Supplier_C,5000,53027.0,Released
+B2026-0083,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-04-24,RM-1478,Supplier_B,3000,48332.0,Quality Review
+B2026-0084,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-04-02,RM-1040,Supplier_A,4000,57090.0,Released
+B2026-0085,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-20,RM-4210,Supplier_A,4000,50782.0,Released
+B2026-0086,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-11,RM-2736,Supplier_C,4000,45549.0,Released
+B2026-0087,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-07-01,RM-1824,Supplier_B,5000,52428.0,Quality Review
+B2026-0088,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-01-18,RM-3122,Supplier_C,3000,53107.0,Released
+B2026-0089,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-09,RM-9773,Supplier_A,5000,58075.0,Released
+B2026-0090,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-01-07,RM-8201,Supplier_C,4000,54555.0,Quality Review
+B2026-0091,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-06-11,RM-1167,Supplier_B,5000,54997.0,Released
+B2026-0092,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-03-18,RM-9238,Supplier_A,5000,54082.0,Released
+B2026-0093,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-26,RM-2847,Supplier_B,5000,50777.0,Released
+B2026-0094,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-01-05,RM-4653,Supplier_B,4000,47345.0,Released
+B2026-0095,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-06-04,RM-3948,Supplier_A,4000,53877.0,Released
+B2026-0096,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-02-06,RM-4644,Supplier_A,4000,49835.0,Quality Review
+B2026-0097,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-26,RM-7845,Supplier_C,4000,62984.0,Released
+B2026-0098,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-06-09,RM-7411,Supplier_A,4000,60724.0,Released
+B2026-0099,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-07-05,RM-6345,Supplier_A,5000,56113.0,Quality Review
+B2026-0100,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-06-05,RM-6641,Supplier_A,3000,54460.0,Released
+B2026-0101,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-03-08,RM-7547,Supplier_A,5000,51428.0,Released
+B2026-0102,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-06-12,RM-2657,Supplier_C,4000,43803.0,Quality Review
+B2026-0103,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-07-01,RM-4560,Supplier_B,5000,50595.0,Released
+B2026-0104,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-03-11,RM-1969,Supplier_A,3000,52659.0,Released
+B2026-0105,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-01-28,RM-7336,Supplier_C,3000,53491.0,Released
+B2026-0106,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-07-15,RM-4938,Supplier_C,5000,55052.0,Released
+B2026-0107,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-02,RM-6734,Supplier_A,5000,57989.0,Quality Review
+B2026-0108,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-05-11,RM-6082,Supplier_C,5000,47501.0,Quality Review
+B2026-0109,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-21,RM-3462,Supplier_A,5000,47560.0,Released
+B2026-0110,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-01-28,RM-2248,Supplier_C,4000,61431.0,Released
+B2026-0111,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-06-20,RM-9755,Supplier_B,5000,57011.0,Quality Review
+B2026-0112,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-01,RM-3639,Supplier_B,4000,49460.0,Released
+B2026-0113,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-05-28,RM-1985,Supplier_A,4000,51303.0,Quality Review
+B2026-0114,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-06-02,RM-3753,Supplier_C,4000,51332.0,Released
+B2026-0115,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-14,RM-9120,Supplier_A,3000,52205.0,Released
+B2026-0116,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-02-08,RM-3351,Supplier_A,4000,55072.0,Released
+B2026-0117,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-06-24,RM-9880,Supplier_A,5000,68477.0,Quality Review
+B2026-0118,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-22,RM-5146,Supplier_B,3000,53233.0,Quality Review
+B2026-0119,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-27,RM-8755,Supplier_A,5000,56307.0,Quality Review
+B2026-0120,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-08-07,RM-6876,Supplier_C,4000,41038.0,Released
+B2026-0121,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-02-28,RM-1395,Supplier_B,3000,48848.0,Quality Review
+B2026-0122,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-01-01,RM-5583,Supplier_A,4000,59987.0,Released
+B2026-0123,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-07-23,RM-4751,Supplier_A,3000,54615.0,Quality Review
+B2026-0124,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-04,RM-2812,Supplier_A,3000,23471.0,Quality Review
+B2026-0125,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-05-02,RM-5949,Supplier_B,4000,56381.0,Quality Review
+B2026-0126,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-08-07,RM-1926,Supplier_C,3000,64468.0,Quality Review
+B2026-0127,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-05-08,RM-7283,Supplier_A,3000,39027.0,Released
+B2026-0128,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-05-09,RM-8396,Supplier_C,5000,61876.0,Quality Review
+B2026-0129,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-03-27,RM-1832,Supplier_A,3000,33982.0,Released
+B2026-0130,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-01-28,RM-5313,Supplier_C,5000,58097.0,Released
+B2026-0131,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-06,RM-6895,Supplier_C,5000,51944.0,Released
+B2026-0132,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-07-17,RM-1559,Supplier_B,3000,36725.0,Quality Review
+B2026-0133,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-01-21,RM-4503,Supplier_B,4000,54900.0,Released
+B2026-0134,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-07-13,RM-3322,Supplier_C,3000,59480.0,Released
+B2026-0135,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-02,RM-1353,Supplier_A,4000,54365.0,Released
+B2026-0136,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-04-28,RM-8235,Supplier_A,3000,55801.0,Quality Review
+B2026-0137,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-02-06,RM-5001,Supplier_A,5000,49324.0,Released
+B2026-0138,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-05-17,RM-7764,Supplier_B,4000,39901.0,Released
+B2026-0139,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-10,RM-6283,Supplier_B,4000,56497.0,Released
+B2026-0140,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-02,RM-8881,Supplier_B,3000,63373.0,Released
+B2026-0141,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-06-08,RM-9972,Supplier_C,4000,59342.0,Released
+B2026-0142,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-01-12,RM-6418,Supplier_A,4000,39079.0,Released
+B2026-0143,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-04-09,RM-4169,Supplier_B,4000,42153.0,Released
+B2026-0144,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-05-11,RM-4805,Supplier_A,5000,46501.0,Quality Review
+B2026-0145,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-01-30,RM-8427,Supplier_A,3000,41646.0,Released
+B2026-0146,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-03-06,RM-4839,Supplier_B,3000,52287.0,Released
+B2026-0147,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-03-17,RM-5677,Supplier_C,4000,54557.0,Released
+B2026-0148,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-05-26,RM-2745,Supplier_B,4000,42703.0,Released
+B2026-0149,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-08-03,RM-9909,Supplier_A,5000,57051.0,Released
+B2026-0150,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-07-03,RM-6856,Supplier_B,5000,55907.0,Quality Review
+B2026-0151,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-02-11,RM-3971,Supplier_A,5000,48437.0,Released
+B2026-0152,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-01-04,RM-6265,Supplier_C,3000,50879.0,Released
+B2026-0153,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-12,RM-4609,Supplier_B,4000,39326.0,Released
+B2026-0154,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-05-12,RM-2393,Supplier_A,5000,49840.0,Quality Review
+B2026-0155,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-04,RM-8871,Supplier_A,4000,52048.0,Released
+B2026-0156,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-02-20,RM-8970,Supplier_A,4000,53097.0,Released
+B2026-0157,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-06,RM-8513,Supplier_C,4000,54463.0,Quality Review
+B2026-0158,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-07-12,RM-4315,Supplier_A,4000,53588.0,Released
+B2026-0159,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-07-04,RM-3307,Supplier_B,5000,50282.0,Quality Review
+B2026-0160,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-02-25,RM-1447,Supplier_B,4000,53860.0,Released
+B2026-0161,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-05-17,RM-7583,Supplier_B,5000,58513.0,Released
+B2026-0162,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-05-15,RM-3950,Supplier_A,4000,51379.0,Released
+B2026-0163,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-10,RM-9029,Supplier_C,3000,54064.0,Quality Review
+B2026-0164,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-05-02,RM-8827,Supplier_A,4000,50790.0,Released
+B2026-0165,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-26,RM-2153,Supplier_B,3000,47796.0,Released
+B2026-0166,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-29,RM-9251,Supplier_B,4000,55399.0,Released
+B2026-0167,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-06-15,RM-2262,Supplier_B,3000,48391.0,Released
+B2026-0168,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-05-30,RM-5413,Supplier_C,4000,54510.0,Released
+B2026-0169,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-04-28,RM-5264,Supplier_A,5000,52184.0,Quality Review
+B2026-0170,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-06-09,RM-9606,Supplier_B,4000,50024.0,Released
+B2026-0171,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-06-17,RM-6915,Supplier_A,3000,49867.0,Released
+B2026-0172,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-05-05,RM-8876,Supplier_A,4000,48697.0,Released
+B2026-0173,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-28,RM-6361,Supplier_A,5000,41302.0,Quality Review
+B2026-0174,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-06-16,RM-8426,Supplier_A,4000,54489.0,Released
+B2026-0175,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-06-07,RM-8668,Supplier_A,3000,53505.0,Quality Review
+B2026-0176,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-08-05,RM-8736,Supplier_A,4000,57523.0,Released
+B2026-0177,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-02-02,RM-4704,Supplier_A,4000,48546.0,Released
+B2026-0178,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-04-03,RM-4436,Supplier_B,4000,64320.0,Released
+B2026-0179,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-07-23,RM-9862,Supplier_B,3000,49532.0,Released
+B2026-0180,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-24,RM-7807,Supplier_A,5000,46312.0,Quality Review
+B2026-0181,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-07-27,RM-9254,Supplier_A,3000,45541.0,Released
+B2026-0182,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-01-03,RM-6195,Supplier_A,3000,40730.0,Quality Review
+B2026-0183,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-01-08,RM-9360,Supplier_B,3000,61962.0,Released
+B2026-0184,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-06-25,RM-7476,Supplier_A,4000,60912.0,Released
+B2026-0185,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-03-20,RM-7682,Supplier_A,4000,55905.0,Released
+B2026-0186,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-04-25,RM-2599,Supplier_A,4000,46175.0,Quality Review
+B2026-0187,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-04-05,RM-6101,Supplier_A,4000,63773.0,Released
+B2026-0188,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-31,RM-7581,Supplier_A,4000,49714.0,Quality Review
+B2026-0189,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-07-26,RM-7848,Supplier_B,4000,50251.0,Quality Review
+B2026-0190,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-21,RM-9617,Supplier_B,5000,61342.0,Quality Review
+B2026-0191,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-06-19,RM-3942,Supplier_B,4000,56283.0,Released
+B2026-0192,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-07-15,RM-3723,Supplier_B,3000,66307.0,Released
+B2026-0193,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-05-25,RM-9724,Supplier_B,5000,53617.0,Released
+B2026-0194,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-03-28,RM-9874,Supplier_A,5000,49419.0,Quality Review
+B2026-0195,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-05,RM-2618,Supplier_B,4000,48023.0,Released
+B2026-0196,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-05-31,RM-4405,Supplier_B,5000,39995.0,Quality Review
+B2026-0197,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-14,RM-9531,Supplier_A,4000,50189.0,Released
+B2026-0198,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-02-02,RM-2797,Supplier_B,4000,59440.0,Released
+B2026-0199,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-21,RM-8047,Supplier_A,5000,55892.0,Released
+B2026-0200,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-31,RM-2010,Supplier_B,5000,52132.0,Released
+B2026-0201,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-28,RM-2604,Supplier_B,4000,45533.0,Released
+B2026-0202,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-02-09,RM-8063,Supplier_C,4000,53475.0,Released
+B2026-0203,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-05-31,RM-6466,Supplier_C,4000,58583.0,Quality Review
+B2026-0204,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-02-13,RM-5992,Supplier_B,3000,54800.0,Quality Review
+B2026-0205,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-22,RM-8708,Supplier_B,5000,53084.0,Released
+B2026-0206,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-08,RM-3763,Supplier_B,4000,46820.0,Released
+B2026-0207,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-08-05,RM-5529,Supplier_A,4000,57637.0,Released
+B2026-0208,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-07-20,RM-6475,Supplier_C,4000,31643.0,Quality Review
+B2026-0209,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-23,RM-7658,Supplier_A,4000,54488.0,Released
+B2026-0210,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-02-16,RM-3988,Supplier_A,4000,68707.0,Quality Review
+B2026-0211,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-03-17,RM-6702,Supplier_A,5000,42196.0,Released
+B2026-0212,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-04-14,RM-5034,Supplier_C,4000,50431.0,Quality Review
+B2026-0213,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-13,RM-5877,Supplier_A,4000,51949.0,Quality Review
+B2026-0214,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-06-11,RM-8763,Supplier_A,4000,48993.0,Quality Review
+B2026-0215,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-05-22,RM-4542,Supplier_A,4000,58736.0,Released
+B2026-0216,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-07-13,RM-7012,Supplier_A,3000,55071.0,Released
+B2026-0217,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-05-23,RM-9476,Supplier_A,4000,52990.0,Released
+B2026-0218,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-25,RM-7860,Supplier_B,3000,57182.0,Released
+B2026-0219,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-04-01,RM-9897,Supplier_A,4000,52109.0,Released
+B2026-0220,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-04-24,RM-6250,Supplier_C,5000,72669.0,Released
+B2026-0221,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-20,RM-3537,Supplier_C,4000,52984.0,Released
+B2026-0222,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-06-13,RM-9921,Supplier_A,4000,53269.0,Released
+B2026-0223,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-05-24,RM-6800,Supplier_A,4000,40882.0,Released
+B2026-0224,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-06-10,RM-3172,Supplier_B,3000,48468.0,Quality Review
+B2026-0225,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-04-28,RM-3854,Supplier_A,5000,59458.0,Quality Review
+B2026-0226,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-06-22,RM-3360,Supplier_A,4000,43320.0,Released
+B2026-0227,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-07-28,RM-8501,Supplier_C,3000,37976.0,Quality Review
+B2026-0228,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-05-06,RM-1832,Supplier_C,3000,52210.0,Released
+B2026-0229,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-04-08,RM-7658,Supplier_B,5000,60910.0,Quality Review
+B2026-0230,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-24,RM-5985,Supplier_A,4000,52275.0,Released
+B2026-0231,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-06-21,RM-1661,Supplier_B,4000,49815.0,Quality Review
+B2026-0232,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-18,RM-6519,Supplier_B,3000,39920.0,Released
+B2026-0233,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-06-03,RM-7777,Supplier_A,3000,54940.0,Quality Review
+B2026-0234,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-07-10,RM-7532,Supplier_B,5000,56298.0,Released
+B2026-0235,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-07-09,RM-5756,Supplier_A,3000,40419.0,Released
+B2026-0236,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-06-25,RM-4018,Supplier_A,3000,59374.0,Quality Review
+B2026-0237,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-04-21,RM-2474,Supplier_B,4000,56977.0,Released
+B2026-0238,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-01-22,RM-1110,Supplier_A,5000,59360.0,Released
+B2026-0239,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-01,RM-4235,Supplier_A,4000,55793.0,Released
+B2026-0240,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-02-14,RM-6689,Supplier_C,3000,56249.0,Released
+B2026-0241,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-04-05,RM-1338,Supplier_C,5000,55385.0,Released
+B2026-0242,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-06-13,RM-9987,Supplier_B,4000,57645.0,Released
+B2026-0243,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-04-11,RM-6272,Supplier_C,5000,40178.0,Released
+B2026-0244,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-01-06,RM-3650,Supplier_C,5000,42243.0,Released
+B2026-0245,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-02-16,RM-9657,Supplier_A,4000,47216.0,Released
+B2026-0246,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-08-04,RM-2655,Supplier_A,4000,51156.0,Released
+B2026-0247,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-08-06,RM-9617,Supplier_A,4000,54523.0,Quality Review
+B2026-0248,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-03-24,RM-3535,Supplier_A,5000,54110.0,Released
+B2026-0249,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-06-27,RM-4417,Supplier_B,5000,59261.0,Released
+B2026-0250,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-06-08,RM-4828,Supplier_A,5000,59465.0,Released
+B2026-0251,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-07-24,RM-9952,Supplier_A,4000,46329.0,Released
+B2026-0252,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-07-15,RM-3257,Supplier_A,4000,53551.0,Quality Review
+B2026-0253,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-05-19,RM-9754,Supplier_A,4000,46489.0,Released
+B2026-0254,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-28,RM-4122,Supplier_C,4000,50776.0,Quality Review
+B2026-0255,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-05-18,RM-3566,Supplier_A,4000,54092.0,Quality Review
+B2026-0256,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-03-12,RM-6743,Supplier_A,5000,29843.0,Released
+B2026-0257,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-03-18,RM-7243,Supplier_A,4000,67673.0,Released
+B2026-0258,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-14,RM-4104,Supplier_A,3000,55682.0,Released
+B2026-0259,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-05-06,RM-2206,Supplier_B,4000,48128.0,Quality Review
+B2026-0260,ENZ-AN-001,Aspergillus niger,Rochester,F-03,2026-05-08,RM-4564,Supplier_A,4000,64528.0,Quality Review
+B2026-0261,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-03-26,RM-5863,Supplier_A,5000,49742.0,Released
+B2026-0262,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-04-01,RM-1360,Supplier_A,4000,52861.0,Released
+B2026-0263,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-01-03,RM-1707,Supplier_C,4000,48834.0,Released
+B2026-0264,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-05-13,RM-9260,Supplier_B,4000,62738.0,Released
+B2026-0265,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-05-07,RM-1322,Supplier_B,4000,51318.0,Released
+B2026-0266,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-25,RM-4661,Supplier_B,3000,52972.0,Quality Review
+B2026-0267,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-04-21,RM-7874,Supplier_B,5000,59825.0,Released
+B2026-0268,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-04-13,RM-3952,Supplier_A,5000,55803.0,Released
+B2026-0269,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-01-15,RM-5452,Supplier_A,4000,51647.0,Quality Review
+B2026-0270,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-13,RM-1778,Supplier_B,4000,59218.0,Released
+B2026-0271,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-03-16,RM-8149,Supplier_A,3000,68500.0,Released
+B2026-0272,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-03-24,RM-6707,Supplier_C,4000,54063.0,Released
+B2026-0273,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-21,RM-8664,Supplier_A,4000,52759.0,Released
+B2026-0274,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-03-28,RM-8773,Supplier_B,5000,53109.0,Released
+B2026-0275,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-06-19,RM-4156,Supplier_C,3000,60518.0,Released
+B2026-0276,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-29,RM-1370,Supplier_B,5000,48105.0,Quality Review
+B2026-0277,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-15,RM-4116,Supplier_C,4000,50191.0,Released
+B2026-0278,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-02-05,RM-2307,Supplier_B,4000,42007.0,Released
+B2026-0279,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-03-09,RM-5799,Supplier_C,4000,44305.0,Released
+B2026-0280,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-05-31,RM-2317,Supplier_A,4000,48634.0,Released
+B2026-0281,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-01-11,RM-9296,Supplier_A,4000,51636.0,Released
+B2026-0282,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-03-16,RM-6419,Supplier_B,5000,63499.0,Quality Review
+B2026-0283,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-01-06,RM-3277,Supplier_A,4000,55484.0,Released
+B2026-0284,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-07-30,RM-9290,Supplier_A,3000,46071.0,Released
+B2026-0285,ENZ-AN-001,Aspergillus niger,Rochester,F-02,2026-06-09,RM-7926,Supplier_C,4000,47268.0,Released
+B2026-0286,ENZ-AN-001,Aspergillus niger,Wilmington,F-04,2026-02-23,RM-4939,Supplier_B,4000,60936.0,Released
+B2026-0287,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-02-13,RM-2318,Supplier_A,4000,59323.0,Released
+B2026-0288,ENZ-AN-001,Aspergillus niger,Wilmington,F-01,2026-01-22,RM-4093,Supplier_A,4000,52183.0,Released
+B2026-0289,ENZ-AN-001,Aspergillus niger,Rochester,F-01,2026-04-15,RM-6255,Supplier_A,3000,49124.0,Released
+B2026-0290,ENZ-AN-001,Aspergillus niger,Wilmington,F-03,2026-06-15,RM-7891,Supplier_A,4000,59312.0,Released
+B2026-0291,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-05-09,RM-3357,Supplier_C,5000,45543.0,Quality Review
+B2026-0292,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-07-13,RM-7682,Supplier_A,5000,54548.0,Released
+B2026-0293,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-01,2026-03-17,RM-3545,Supplier_A,3000,66772.0,Quality Review
+B2026-0294,ENZ-AN-001,Aspergillus niger,Wilmington,F-02,2026-03-03,RM-3220,Supplier_B,4000,53335.0,Released
+B2026-0295,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-04-16,RM-5022,Supplier_A,4000,46959.0,Released
+B2026-0296,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-02-14,RM-2447,Supplier_A,3000,54667.0,Quality Review
+B2026-0297,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-03,2026-08-03,RM-4641,Supplier_B,4000,48945.0,Quality Review
+B2026-0298,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-04,2026-02-10,RM-4219,Supplier_B,3000,42938.0,Released
+B2026-0299,ENZ-AN-001,Aspergillus niger,Cedar Rapids,F-02,2026-04-16,RM-3520,Supplier_C,3000,56557.0,Quality Review
+B2026-0300,ENZ-AN-001,Aspergillus niger,Rochester,F-04,2026-04-25,RM-7979,Supplier_B,4000,59266.0,Quality Review

@@ -1,0 +1,6 @@
+use_case,business_question,data_sources,method,technical_metrics,business_value
+Yield prediction,Predict final enzyme yield from fermentation variables,Manufacturing + SAP,Random Forest regression,MAE / R²,Earlier process optimization
+Quality-risk prediction,Identify batches likely to require Hold/Fail review,Manufacturing + LIMS + SAP,Random Forest classification,ROC-AUC / Recall / F1,Earlier quality intervention
+Anomaly detection,Detect unusual process conditions,Manufacturing,Isolation Forest,Alert quality,Earlier excursion detection
+Root-cause support,Compare poor batches with successful baseline,Unified data,Cohort comparison + feature importance,Investigation cycle time,Faster deviation investigation
+Knowledge assistant,Find relevant SOPs and historical investigations,SharePoint-style documents,RAG-ready retrieval,Retrieval relevance,Faster knowledge access

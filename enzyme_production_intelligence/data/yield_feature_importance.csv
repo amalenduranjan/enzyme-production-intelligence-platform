@@ -1,0 +1,10 @@
+feature,importance
+temperature_C_avg,0.4066267865964731
+dissolved_oxygen_pct_avg,0.1216544130976517
+inoculum_age_hr,0.0931621053768154
+pH_avg,0.06973016988753537
+feed_rate_L_hr_avg,0.06859633234831743
+airflow_vvm_avg,0.06702626468722013
+substrate_concentration_g_L,0.059410578035047075
+agitation_rpm_avg,0.05929278035827624
+fermentation_time_hr,0.05450056961266357
