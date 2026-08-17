@@ -42,6 +42,31 @@ SAP + LIMS + Manufacturing + SharePoint
 → curated unified data
 → analytics / ML / GenAI
 
+## Architecture Diagram for GitHub and streamlit
+Synthetic SAP / LIMS / Manufacturing Data
+                ↓
+        Jupyter Notebook
+         Data Exploration
+                ↓
+        Data Harmonization
+                ↓
+         Feature Engineering
+                ↓
+           ML Modeling
+                ↓
+        Model Evaluation
+                ↓
+       Save Model / Results
+                ↓
+             app.py
+                ↓
+           Streamlit UI
+                ↓
+      GitHub + Cloud Deployment
+
+## Dashboard screenshot
+<img width="1263" height="542" alt="Screenshot Enzyme production intelligence" src="https://github.com/user-attachments/assets/86c527b6-9ce8-403e-bddf-0fb009147114" />
+
 ## Production extensions
 **Replace CSVs with governed system connectors:** 
 the production system would connect directly to real systems such as LIMS, SAP, SharePoint, manufacturing historians, or instrument databases using approved APIs, database connectors, or integration tools.
